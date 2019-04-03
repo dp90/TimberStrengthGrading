@@ -16,3 +16,5 @@ The IPython notebooks are used as the input for my bachelor's thesis and contain
 7. ModelWithoutKR.ipynb is a nonlinear regression model without the knot ratio as an independent variable, calculating the variable               coefficients directly from the data (so without simulations), to compare to the model that does incorporate the knot ratio. 
 
 The paper is available upon request. Please contact me, if you are interested in the data. 
+
+Python version 3.7.
